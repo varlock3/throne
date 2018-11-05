@@ -1,0 +1,6 @@
+token=NDgxNjE3ODkzNTkxODc1NTk1.Dq2awg.BdKntGwTuluESeZ1FSfslqCnyu4
+owner=464046823162511400
+prefix=T
+game=ستفقدني كثيراً اعدك بذلك .
+stayinchannel=true
+songinstatus=false
